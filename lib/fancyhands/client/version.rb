@@ -1,5 +1,3 @@
-module Fancyhands
-  module Client
-    VERSION = "0.0.1"
-  end
+module Fancyhands::Client
+  VERSION = "0.0.1"
 end
